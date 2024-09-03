@@ -1,4 +1,0 @@
-#!/bin/bash
-# Displays listening ports
-
-netstat -tulnp
