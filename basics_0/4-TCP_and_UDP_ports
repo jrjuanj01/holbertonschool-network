@@ -1,3 +1,4 @@
 #!/bin/bash
-# Displays listening ports
+# Displays listening ports #
+
 netstat -lpn
